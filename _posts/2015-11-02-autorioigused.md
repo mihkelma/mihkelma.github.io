@@ -24,4 +24,6 @@ Teose või loomingu vaba kasutamine võimaldab kiiremat arengut ja ei kahjusta k
 ##### Digitaalteoste autorikaitse(A Ban on DRM)*
 Täna teenib see pigem suurkorporatsioonide huve ning loomingu soetamisel legaalsel teel peaks olema tarbijal õigus seda jagada.
 
+![World's biggest lie](/images/iagree.png)
+
 /[The Case for Copyright Reform](http://falkvinge.net/wp-content/uploads/large/The%20Case%20For%20Copyright%20Reform%20(2012)%20Engstrom-Falkvinge.pdf)/
